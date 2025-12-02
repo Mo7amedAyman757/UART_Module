@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sim_1/new/Baudrate_tb.v,1763035950,verilog,,,,Baudrate_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sim_1/new/FIFO_tb.v,1763037662,verilog,,,,FIFO_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sources_1/new/Baudrate.v,1763034328,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sim_1/new/Baudrate_tb.v,,Baudrate,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sources_1/new/FIFO.v,1763037758,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART/UART_vivado/UART/UART.srcs/sim_1/new/FIFO_tb.v,,FIFO,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

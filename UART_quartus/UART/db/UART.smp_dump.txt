@@ -1,0 +1,14 @@
+
+State Machine - |UART|RX_FSM:RX_uut|current_state
+Name current_state.stop current_state.data current_state.start current_state.idle 
+current_state.idle 0 0 0 0 
+current_state.start 0 0 1 1 
+current_state.data 0 1 0 1 
+current_state.stop 1 0 0 1 
+
+State Machine - |UART|TX_FSM:TX_uut|current_state
+Name current_state.stop current_state.data current_state.start current_state.idle 
+current_state.idle 0 0 0 0 
+current_state.start 0 0 1 1 
+current_state.data 0 1 0 1 
+current_state.stop 1 0 0 1 

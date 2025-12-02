@@ -1,0 +1,7 @@
+
+State Machine - |TX|TX_FSM:uut2|current_state
+Name current_state.stop current_state.data current_state.start current_state.idle 
+current_state.idle 0 0 0 0 
+current_state.start 0 0 1 1 
+current_state.data 0 1 0 1 
+current_state.stop 1 0 0 1 

@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/Baudrate_tb.v,1764187427,verilog,,,,Baudrate_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/RX_tb.v,1764186893,verilog,,,,RX_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/TX_tb.v,1764354052,verilog,,,,TX_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/UART_tb.v,1764190893,verilog,,,,UART_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/Baudrate.v,1764154544,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/TX.v,,Baudrate,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/RX.v,1764185838,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/RX_FSM.v,,RX,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/RX_FSM.v,1764186254,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/TX_FSM.v,,RX_FSM,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/TX.v,1764154275,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/TX_FSM.v,,TX,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/TX_FSM.v,1764353361,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/TX_tb.v,,TX_FSM,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sources_1/new/UART.v,1764190869,verilog,,D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/UART_tb.v,,UART,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

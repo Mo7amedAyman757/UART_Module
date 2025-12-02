@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+=== UART Receiver Testbench Started ===
+Time		Data	Busy	Done	Error
+----------------------------------------
+200000		-	0	0	0
+
+Sending 0x55...
+1042860000	55	0	0	0
+$stop called at time : 2087520 ns : File "D:/Career tracks/Digial_IC/07-IcDesign_Projects/UART_Module/UART_vivado/UART_V1/UART_V1.srcs/sim_1/new/RX_tb.v" Line 111
